@@ -9,7 +9,8 @@ My projects:
 
 - [Landing-page Louvre](https://soll1992-museum.netlify.app/) is a copy of the official website of the Louvre Museum. (Landing, html, scss, js)
 - [Momentum](https://soll1992-momentum.netlify.app/). This project is a copy of the Google Chrome extension Momentum. (html, scss, js)  
-- [Art-quiz](https://soll1992-art-quiz.netlify.app/). (SPA, html, scss, js, )
+- [Art-quiz](https://soll1992-art-quiz.netlify.app/). (SPA, html, scss, js)
+- [Art-quiz2](https://art-quiz-cra.netlify.app/). (SPA, html, scss, css-modules, ts, react)
 - [Christmas-app](https://soll1992-christmas-app.netlify.app/). (SPA, html, scss, ts, react) 
 - [Async-race](https://github.com/soll1992/Async-race). Check readme.md! (SPA, html, scss, ts, Rest.api, react)
 - [RSlang](https://soll1992-rslang.netlify.app/). (SPA, html, scss, ts, react, redux, teamwork)
