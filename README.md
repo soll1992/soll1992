@@ -15,8 +15,6 @@ My projects:
 - [Async-race](https://github.com/soll1992/Async-race). Check readme.md! (SPA, html, scss, ts, Rest.api, react)
 - [RSlang](https://soll1992-rslang.netlify.app/). (SPA, html, scss, ts, react, redux, teamwork)
 
-<img src="https://komarev.com/ghpvc/?username=soll1992&label=Profile%20views&color=0e75b6&style=flat" alt="constantinetu" />
-
 ### Codewars:
 
 [![Profile badge](https://www.codewars.com/users/soll1992/badges/large)](https://www.codewars.com/users/soll1992)
