@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Anton
-#### I am junior frontend-developer
+#### I am frontend-developer
 
 Skills: JS / REACT / TS / HTML / SCSS / Redux / Webpack 
 
