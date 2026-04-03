@@ -19,10 +19,6 @@ My projects:
 
 [![Profile badge](https://www.codewars.com/users/soll1992/badges/large)](https://www.codewars.com/users/soll1992)
 
-### Stats:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soll1992&hide=stars,issues&show_icons=true&theme=tokyonight)](https://github.com/soll1992)
-
 
 
 
