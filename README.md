@@ -9,7 +9,7 @@
 [![Profile badge](https://www.codewars.com/users/soll1992/badges/large)](https://www.codewars.com/users/soll1992)
 
 ## Contacts
-[![Telegram](https://img.shields.io/badge/Telegram-%40TerentyevKY-blue?style=flat-square-endpoint&logo=telegram&logoColor=blue&labelColor=EEEEEE)](https://t.me/Soll1992) 
+[![Telegram](https://img.shields.io/badge/Telegram-%40Soll1992-blue?style=flat-square-endpoint&logo=telegram&logoColor=blue&labelColor=EEEEEE)](https://t.me/Soll1992) 
 
 ## My projects: 
 
